@@ -7,3 +7,6 @@
     print('You\'re doing great!')
     print("Have you read \"Hamlet\"?")
     print('Have you read "Hamlet"?')
+
+## Raw Strings
+- "r" at the beginning of a string will treat the string as a "raw string", allowing output of characters without escaping.   
